@@ -3,6 +3,7 @@ As part of our NUS DSE1101 final project, we used a data set which comes from th
 
 **Team Members:**
 
+  * Danvern
   * Julian
   * James
 
